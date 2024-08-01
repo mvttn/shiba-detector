@@ -1,0 +1,8 @@
+path: /content/gdrive/My Drive/shiba-detector/data # dataset root directory
+train: images/train # training images relative to path
+val: images/train # validation images relative to path
+
+# Classes
+nc: 1
+names:
+  0: shiba-inu
